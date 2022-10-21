@@ -1,0 +1,12 @@
+.copy_right_foter
+{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #0a0909;
+    line-height: 3;
+    text-align: bottom;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
